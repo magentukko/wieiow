@@ -1,0 +1,6 @@
+Aclaraciones importantes:
+-Al subir manualmente la carpeta de preentrega, la carpeta oculta .vscode no se sube, por ende:
+1) Abrir carpeta de preentrega en VSCode, darle a Run, la opción g++ build and debug active file, para generar la carpeta oculta.
+ó
+2) Descomprimir el .zip, copiar el main y pegarlo en una plantilla c++ que posea todos los archivos, incluída la carpeta oculta .vscode.
+-Luego compilar, y ejecutar en la terminal.
